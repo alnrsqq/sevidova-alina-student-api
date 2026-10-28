@@ -1,4 +1,4 @@
-Sevidova Alina Student API - DevOps Midterm Project
+Sevidova Alina Student API - Documentation Version
 Student: Sevidova Alina
 
 Feature update:
