@@ -1,4 +1,4 @@
-Sevidova Alina Student API - Main Branch Version
+Sevidova Alina Student API - DevOps Midterm Documentation
 Student: Sevidova Alina
 
 Feature update:
