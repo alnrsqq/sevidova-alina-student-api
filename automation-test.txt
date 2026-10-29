@@ -1,1 +1,2 @@
 Automation test for Alina Sevidova - Task 4.4
+Poll SCM automatic trigger verified
